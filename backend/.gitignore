@@ -1,0 +1,4 @@
+dist/
+.env
+r.md
+node_modules
